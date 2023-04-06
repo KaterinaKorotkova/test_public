@@ -1,2 +1,2 @@
 # test_public
-test puvlic repo
+test public repo
